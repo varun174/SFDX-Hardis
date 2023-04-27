@@ -1,0 +1,25 @@
+C:\Program Files\sfdx\client\bin\node.exe C:\Program Files\sfdx\client\bin\run hardis:config:get --level user --jsonC:\Program Files\sfdx\client\bin\node.exe C:\Program Files\sfdx\client\bin\run hardis:config:get --level user --jsonC:\Program Files\sfdx\client\bin\node.exe C:\Program Files\sfdx\client\bin\run hardis:config:get --level project --jsonC:\Program Files\sfdx\client\bin\node.exe C:\Program Files\sfdx\client\bin\run hardis:config:get --level project --jsonC:\Program Files\sfdx\client\bin\node.exe C:\Program Files\sfdx\client\bin\run hardis:config:get --level project --json[sfdx-hardis][command] git config --local core.quotepath false
+[sfdx-hardis] error: could not lock config file .git/config: File exists
+
+[sfdx-hardis] Defined "false" as git core.quotepath
+[sfdx-hardis] {}
+[sfdx-hardis] Defined "false" as git core.quotepath
+[sfdx-hardis] Defined "false" as git core.quotepath
+[sfdx-hardis] {}
+[sfdx-hardis] Defined "false" as git core.quotepath
+[sfdx-hardis] {}
+[sfdx-hardis] Defined vscode as git merge tool 
+[sfdx-hardis] Updated config file c:\Users\LakkiReddy\Documents\GitHub\SFDX-Hardis\config\user\.sfdx-hardis.LakkiReddy.yml with values: 
+{
+  "installedApps": [
+    "git"
+  ]
+}
+[sfdx-hardis] {"installedApps":["git"]}
+[sfdx-hardis] Updated config file c:\Users\LakkiReddy\Documents\GitHub\SFDX-Hardis\config\user\.sfdx-hardis.LakkiReddy.yml with values: 
+{
+  "installedApps": [
+    "git"
+  ]
+}
+[sfdx-hardis] {"installedApps":["git"]}
